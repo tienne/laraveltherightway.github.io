@@ -15,6 +15,7 @@ Laravel: The Best Practices is currently available in the following languages. P
 * [English](http://www.laravelbestpractices.com)
 * [Russian](http://vanadium23.github.io/laraveltherightway.github.io/)
 * [Chinese](http://bluegeek.github.io/laraveltherightway/)
+* [Korean](http://)
 
 ## How to Contribute
 
